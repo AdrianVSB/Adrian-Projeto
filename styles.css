@@ -5,4 +5,10 @@ body {
 
 header {
     border: solid 2px white;
+    padding: 20px;
+    font-size: 50px;
+}
+
+section {
+    background: red
 }
