@@ -16,8 +16,8 @@ header {
 
 .camada {
     background: black;
-    padding-left: 30px;
-    padding-right: 30px;
+    padding-left: 100px;
+    padding-right: 100px;
     justify-content: center;
 }
 
