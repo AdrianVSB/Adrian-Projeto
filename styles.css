@@ -17,12 +17,12 @@ header {
 }
 
 div {
-    .chamdada-texto{
+    .chamdada-texto {
         margin-right: 5%;
     }
 
     h1{
-        color: aqua;
+        color: blue
         font-size: 40px;
     }
 
@@ -39,7 +39,7 @@ div {
     }
     
     .categoria-videos{
-        color: blueviolet
+        color: blueviolet;
         display: flex;
         overflow-x: auto;
         gap: 20px;
@@ -51,10 +51,10 @@ div {
 
     .categoria-videos img:hover {
        opacity 1.0;
-       border: 2px solid white
+       border: 2px solid white;
     }
 
     .categoria h2 {
-        color:blueviolet
+        color:blueviolet;
     } 
 }
