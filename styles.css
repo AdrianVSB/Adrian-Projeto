@@ -14,7 +14,7 @@ header {
 }
    
 
-.camada {
+.chamada {
     background: black;
     padding-left: 100px;
     padding-right: 100px;
@@ -22,7 +22,7 @@ header {
 }
 
 div {
-.camadada-texto {
+.chamada-texto {
         margin-right: 5%;
     }
 
@@ -40,9 +40,8 @@ div {
         font-size: 20px;
     }
 
-    img2 {
+    img {
         height: 500px;
-        padding-left: 100px;
     }
     
     .categoria-videos{
