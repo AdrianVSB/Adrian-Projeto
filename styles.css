@@ -5,14 +5,14 @@ body {
 
 header {
     border: solid 1px white;
-    padding: 50px;
-    font-size: 50px;
+    padding: 30px;
+    font-size: 70px;
 }
 
 .chamada {
     background: black;
-    padding-bottom: 80px;
-    padding-top: 80px;
+    padding-bottom: 30px;
+    padding-top: 30px;
     justify-content: center;
 }
 
