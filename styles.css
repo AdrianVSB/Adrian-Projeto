@@ -4,7 +4,7 @@ body {
 }
 
 header {
-    border: solid 5px white;
+    border: solid 1px white;
     padding: 50px;
     font-size: 50px;
 }
@@ -22,7 +22,7 @@ div {
     }
 
     h1{
-        font-size: 40px;
+        font-size: 70px;
     }
 
     h2{
