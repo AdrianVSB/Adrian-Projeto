@@ -1,9 +1,9 @@
 body {
     color: white;
-    background: blue
+    background: blue;
 
 header {
-    padding-left: 590px
+    padding-left: 590px;
     font-size: 70px;
 }
    
@@ -39,7 +39,7 @@ div {
     }
     
     .categoria-videos{
-        color: rgb(138, 43, 226);
+        color: blueviolet
         display: flex;
         overflow-x: auto;
         gap: 20px;
@@ -51,10 +51,10 @@ div {
 
     .categoria-videos img:hover {
        opacity 1.0;
-       border: 2px solid rgb(255, 255, 255);
+       border: 2px solid white
     }
 
     .categoria h2 {
-        color:rgb(66, 2, 150)
+        color:blueviolet
     } 
 }
