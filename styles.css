@@ -1,5 +1,5 @@
 body {
-    color: blue;
+    color: green;
     background: blueviolet
 
 header {
@@ -9,8 +9,8 @@ header {
 
 .chamada {
     background: green;
-    padding-left: 590px;
-    padding-right: 590px;
+    padding-left: 1000px;
+    padding-right: 100px;
     justify-content: center;
 }
 
@@ -20,6 +20,7 @@ div {
     }
 
     h1{
+        color: aqua;
         font-size: 40px;
     }
 
