@@ -38,7 +38,7 @@ div {
     }
     
     .categoria-videos{
-        color: blueviolet;
+        color: rgb(138, 43, 226);
         display: flex;
         overflow-x: auto;
         gap: 30px;
@@ -47,4 +47,12 @@ div {
         padding-left: 20px;
         padding-right: 20px;
     }
+
+    .categoria-videos img:hover {
+       opacity 1.0;
+       border: 1px solid green;
+    }
+
+    .categoria h2
+    color: rgb(138, 43, 226);
 }
