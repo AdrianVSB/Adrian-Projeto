@@ -1,10 +1,13 @@
 body {
     color: white;
     background: black;
+    font-family: "Sixtyfour Convergence", sans-serif;
 
 header {
     padding-left: 590px;
     font-size: 70px;
+    color:black
+
 }
    
 
@@ -21,11 +24,7 @@ div {
         margin-right: 5%;
     }
 
-    h1{
-        color: red;
-        font-size: 40px;
-    }
-
+    
     h2{
         padding-top: 20px;
         font-size: 30px;
