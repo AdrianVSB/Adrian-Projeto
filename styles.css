@@ -45,7 +45,6 @@ div {
     }
     
     .categoria-videos{
-        color: white;
         display: flex;
         overflow-x: auto;
         gap: 20px;
