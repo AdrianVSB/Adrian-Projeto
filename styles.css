@@ -1,6 +1,6 @@
 body {
-    color: black;
-    background: blue;
+    color: white;
+    background: black;
 
 header {
     padding-left: 590px;
@@ -22,7 +22,7 @@ div {
     }
 
     h1{
-        color: blue
+        color: red;
         font-size: 40px;
     }
 
