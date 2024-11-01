@@ -17,8 +17,8 @@ header {
 
 .chamada {
     background: black;
-    padding-left: 100px;
-    padding-right: 100px;
+    padding-left: 50px;
+    padding-right: 50px;
     justify-content: center;
 }
 
@@ -43,8 +43,6 @@ div {
 
     img{
         height: 500px;
-        padding-left: 100px;
-        padding-right: 100px;
     }
     
     .categoria-videos{
