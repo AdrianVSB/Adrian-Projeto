@@ -41,14 +41,14 @@ div {
     }
 
     img{
-        height: 10px;
+        height: 500px;
     }
     
     .categoria-videos{
         color: white;
         display: flex;
         overflow-x: auto;
-        gap: 100px;
+        gap: 20px;
     }
     .categoria{
         padding-left: 60px;
