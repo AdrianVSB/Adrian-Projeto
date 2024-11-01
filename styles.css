@@ -3,14 +3,14 @@ body {
     background: blue;
 
 header {
-    padding-left: 590px;
+    padding-left: 500px;
     font-size: 70px;
 }
    
 
 
 .chamada {
-    background: greenyellow;
+    background: black;
     padding-left: 100px;
     padding-right: 100px;
     justify-content: center;
