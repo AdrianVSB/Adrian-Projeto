@@ -38,6 +38,7 @@ div {
     }
     
     .categoria-videos{
+        color: blueviolet;
         display: flex;
         overflow-x: auto;
         gap: 30px;
