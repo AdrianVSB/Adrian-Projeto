@@ -40,8 +40,9 @@ div {
         font-size: 20px;
     }
 
-    img{
+    img2 {
         height: 500px;
+        padding-left: 100px;
     }
     
     .categoria-videos{
