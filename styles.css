@@ -49,7 +49,7 @@ div {
 
     .categoria-videos img:hover {
        opacity 1.0;
-       border: 1px solid green;
+       border: 2px solid rgb(255, 255, 255);
     }
 
     .categoria h2
