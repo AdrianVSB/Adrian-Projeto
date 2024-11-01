@@ -1,6 +1,6 @@
 body {
     color: white;
-    background: blueviolet;
+    background: black;
     font-family: "Rubik Wet Paint", system-ui;
 }
 
@@ -16,8 +16,8 @@ header {
 
 .camada {
     background: black;
-    padding-left: 100px;
-    padding-right: 100px;
+    padding-left: 30px;
+    padding-right: 30px;
     justify-content: center;
 }
 
@@ -51,19 +51,19 @@ div {
         gap: 20px;
     }
     .categoria{
-        padding-left: 60px;
-        padding-right: 60px;
+        padding-left: 30px;
+        padding-right: 30px;
     }
 
     }
     .categoria-videos img:hover {
        opacity: 0.3;
-       border: 2px solid white;
+       border: 3px solid green;
     
     }
 
     .categoria h2 {
-        color:white;
+        color:aqua;
     } 
 
      section{
