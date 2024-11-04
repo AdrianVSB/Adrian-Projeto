@@ -50,6 +50,12 @@ div {
         overflow-x: auto;
         gap: 5px;
     }
+
+    .chamada-texto img:hover {
+           opacity: 0.2;
+           border: 3px solid white;
+        }
+
     .categoria{
         padding-left: 50px;
         padding-right: 50px;
