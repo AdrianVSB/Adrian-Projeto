@@ -50,6 +50,13 @@ div {
         overflow-x: auto;
         gap: 5px;
     }
+
+    .chamada-texto {
+        display: flex;
+        overflow-x: auto;
+        gap: 5px;
+    }
+
     .categoria{
         padding-left: 00px;
         padding-right: 00px;
@@ -60,6 +67,10 @@ div {
        opacity: 0.3;
        border: 3px solid white;
     
+    }
+    .chamada-texto img:hover {
+        opacity: 0.3;
+        border: 3px solid white;
     }
 
     .categoria h2 {
