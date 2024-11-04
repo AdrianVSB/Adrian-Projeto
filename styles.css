@@ -51,7 +51,8 @@ div {
         gap: 5px;
     }
 
-    .chamada-texto {
+    .chamada-texto{
+        background: black;
         display: flex;
         overflow-x: auto;
         gap: 5px;
