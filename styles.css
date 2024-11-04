@@ -16,8 +16,8 @@ header {
 
 .chamada {
     background: black;
-    padding-left: 0px;
-    padding-right: 00px;
+    padding-left: 50px;
+    padding-right: 50px;
 }
 
 div {
@@ -59,8 +59,8 @@ div {
     }
 
     .categoria{
-        padding-left: 00px;
-        padding-right: 00px;
+        padding-left: 50px;
+        padding-right: 50px;
     }
 
     
@@ -79,6 +79,6 @@ div {
     } 
 
      section{
-    padding-left: 00px;
-    padding-right: 00px;
+    padding-left: 20px;
+    padding-right: 20px;
      }
