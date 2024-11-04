@@ -20,7 +20,7 @@ header {
     padding-right: 00px;
 }
 
-div 
+div {
 .chamada-texto {
         margin-right: 5%;
     }
@@ -63,7 +63,7 @@ div
         padding-right: 00px;
     }
 
-    }
+    
     .categoria-videos img:hover {
        opacity: 0.3;
        border: 3px solid white;
