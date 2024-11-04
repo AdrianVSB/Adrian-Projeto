@@ -45,14 +45,14 @@ div {
     }
     
     .categoria-videos{
-        background: red;
+        background: black;
         display: flex;
         overflow-x: auto;
         gap: 5px;
     }
     .categoria{
-        padding-left: 50px;
-        padding-right: 50px;
+        padding-left: 00px;
+        padding-right: 00px;
     }
 
     }
@@ -67,6 +67,6 @@ div {
     } 
 
      section{
-    padding-left: 10px;
-    padding-right: 10px;
+    padding-left: 00px;
+    padding-right: 00px;
      }
