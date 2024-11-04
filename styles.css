@@ -15,12 +15,12 @@ header {
    
 
 .chamada {
-    background: red;
+    background: black;
     padding-left: 0px;
     padding-right: 00px;
 }
 
-div {
+div 
 .chamada-texto {
         margin-right: 5%;
     }
