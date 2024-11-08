@@ -26,7 +26,7 @@ div {
         background: red;
         padding-bottom: 80px;
         padding-top: 80px;
-        display: flex
+        display: center;
         margin-right: 5%;
     }
 
