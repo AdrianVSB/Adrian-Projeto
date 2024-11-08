@@ -23,6 +23,10 @@ header {
 
 div {
 .chamada-texto {
+        background: red
+        padding-bottom: 80px;
+        padding-top: 80px;
+        display: flex
         margin-right: 5%;
     }
 
