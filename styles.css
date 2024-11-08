@@ -26,9 +26,9 @@ div {
         background: green;
         padding-bottom: 80px;
         padding-top: 80px;
-        justify-items: center;
+        display: flex;
         justify-content: center;
-        display: center;
+        align-items: center;
         margin-right: 5%;
     }
 
