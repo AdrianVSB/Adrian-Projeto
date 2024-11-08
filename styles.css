@@ -23,12 +23,6 @@ header {
 
 div {
 .chamada-texto {
-        background: green;
-        padding-bottom: 80px;
-        padding-top: 80px;
-        display: flex;
-        justify-content: center;
-        align-items: center;
         margin-right: 5%;
     }
 
